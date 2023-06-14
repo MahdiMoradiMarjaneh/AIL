@@ -1,0 +1,1 @@
+This repository provides R scripts used in [**Moradi Marjaneh et al. (*eLife*, 2023)**](https://elifesciences.org/articles/83606) to perform linkage analysis for quantitative traits in an advanced intercross line design.
